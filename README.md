@@ -2,6 +2,18 @@
 ## キャンセルを予測してホテルの損失を減らす
 
 [![Kaggle Dataset](https://img.shields.io/badge/Data-Kaggle-blue)](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+[![Streamlit App](https://img.shields.io/badge/App-Streamlit-ff4b4b)](https://github.com/Nobumasa494/hotel-booking-cancellation)
+
+---
+
+## デモ画面
+
+![アプリのスクリーンショット](screenshot.png)
+
+### アプリの起動方法
+```bash
+uv run streamlit run app.py
+```
 
 ---
 
