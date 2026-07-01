@@ -21,7 +21,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-model = joblib.load(r'C:\Users\nobu2\auto-data-analysis\hotel\model.pkl')
+model = joblib.load('model.pkl')
 explainer = shap.TreeExplainer(model)
 
 st.title('🎯 Hotel Cancellation Predictor')

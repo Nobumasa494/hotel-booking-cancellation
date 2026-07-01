@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+shap
+matplotlib
+japanize-matplotlib
+joblib
+numpy
